@@ -1,0 +1,128 @@
+@font-face {
+    font-family: Murder;
+    src: url(fonts/youmurdererbb_reg.ttf);
+ }
+
+ p{
+     font-family: Murder;
+     font-size: 25px;
+     color: rgb(192, 22, 22);
+ }
+
+ h3{
+    font-family: Murder;
+    color: rgb(192, 22, 22);
+ }
+
+h4{
+    font-family: Murder;
+    color: rgb(192, 22, 22);
+}
+
+h1{
+    font-family: Murder;
+    color: rgb(192, 22, 22);
+}
+
+
+#links{
+    font-family: Murder;
+    font-size: 40px;
+
+}
+
+body{
+    background-image: url("imagens/357515.jpg");
+  
+}
+
+.jeffmain{
+    padding-top: 30px;
+}
+
+main{
+    padding-bottom: 95px;
+}
+
+#creepypastasH4{
+    font-size: 50px;
+}
+
+#menulateral{
+    padding-left: 150px;
+}
+
+.scaryhome-audio{
+padding: 0px;
+margin: 0px;
+display: flex;
+position: absolute;
+margin-top: 135px;
+}
+
+.error666-video{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.error666-video video{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    object-fit: cover;
+    width : 100%;
+    height: 100%;
+
+    }
+
+    .error666-text{
+        margin: 0px;
+        padding: 0px;
+        font-size: 100px;
+        font-family: 'Murderer';
+        color: red;
+        height: 100px;
+        position: relative;
+        z-index: 1;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    
+        }
+
+        .error666-text-content{
+            margin: 0px;
+            padding: 0px;
+            font-size: 20px;
+            font-family: 'Murderer';
+            color: red;
+            height: 1100px;
+            position: relative;
+            z-index: 1;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+        
+        }
+        .error666-text-content img{
+            padding: 0px;
+            width: 100px;
+            display: flex;
+            position: absolute;
+            margin-bottom: 0px;
+            margin-left: 0px;
+                }
+
+                .image-scary{
+                    width: 700px;
+                   height: auto;
+                  position: absolute;
+                  right: 750px;
+                }
+        
